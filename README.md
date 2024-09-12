@@ -5,7 +5,7 @@ ENTREGA FINAL: ORIANA RONDON
 | Bravo - David | https://github.com/Orioreo08/hg_1_bravo.git |
 | Alfa - Dylan | https://github.com/Orioreo08/hg_1_alfa.git |
 | Delta - Hermes | https://github.com/Orioreo08/hg_1_delta.git |
-| eco - Dangelo | link |
+| eco - Dangelo | https://github.com/Orioreo08/hg_1_echo.git|
 
 
 
